@@ -1,7 +1,7 @@
 # <h1 align="center"> ANTI </h1>
 
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-4/911351586398294037.png">
+<img src="https://discord.c99.nl/widget/theme-1/911351586398294037.png">
 </p>
 
 <p align="center">
